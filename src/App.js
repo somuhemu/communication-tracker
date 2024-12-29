@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import AdminLayout from "./components/AdminLayout";
 import UserLayout from "./components/UserLayout";
 import CompanyOverview from "./pages/CompanyOverview";
