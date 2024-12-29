@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-red-200 {
+    background-color: #fecaca;
+  }
+  
+  .text-red-800 {
+    color: #991b1b;
+  }
+  
+  .bg-yellow-200 {
+    background-color: #fef3c7;
+  }
+  
+  .text-yellow-800 {
+    color: #78350f;
+  }
+  
+  .bg-green-200 {
+    background-color: #bbf7d0;
+  }
+  
+  .text-green-800 {
+    color: #065f46;
+  }
+  
